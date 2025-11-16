@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-    font-color: #ffffff;
+    color: #ffffff;
     font-size: 50px
 }
 
 a {
-    font-color: aquamarine;
+    color: aquamarine;
     font-size: 16px;
 }
