@@ -17,8 +17,17 @@ p a {
 h2 {
     font-size: 42px;
     font-weight: 300;
+    color: #ffffff;
 }
-p2 {
+p {
     font-size: 21px;
+    color: gray;
+}
+alt {
+    color: rgb(198, 223, 87);
+    font-size: 12px;
+}
+footer {
+    text-align: right;
     color: gray;
 }
